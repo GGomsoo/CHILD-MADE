@@ -1,6 +1,6 @@
 # 우리 아이가 만들었어요
 
-![Untitled](/uploads/6cbe5dabb73ba2059ce4bd12d5517e28/Untitled.png)
+![Untitled](https://github.com/kdozlo/CHILD-MADE/assets/74356213/21047c6a-8f8e-4662-acdb-8c87e4f29176)
 
 ### 4세에서 10세 아이들이 함께 참여 가능한 화상 동화 서비스
 
@@ -114,11 +114,11 @@
 
 ## 아키텍처
 
-![Untitled_1](/uploads/f2a6aedd74399bdf32502a73fedd9dec/Untitled_1.png)
+![Untitled 1](https://github.com/kdozlo/CHILD-MADE/assets/74356213/49fd1f23-9953-463b-8b74-f875ce7afe59)
 
 ## ERD
 
-![Untitled_2](/uploads/6963e37a70594ed318b7f8f432ac3f0f/Untitled_2.png)
+![Untitled 2](https://github.com/kdozlo/CHILD-MADE/assets/74356213/b47aa49f-429f-42ab-9b02-cdcb2f43f8f8)
 
 ## 프로젝트 산출물
 
@@ -137,43 +137,44 @@
 
 - 구글 로그인 / 카카오 로그인
 
-![Untitled_3](/uploads/d287482dce62523a1abee12b58c3205c/Untitled_3.png)
+![Untitled 3](https://github.com/kdozlo/CHILD-MADE/assets/74356213/cd53fc31-79b5-4ee3-a020-e1aaed4d059f)
 
-![Untitled_4](/uploads/48c18f89538c7a98cf400513e683a775/Untitled_4.png)
+![Untitled 4](https://github.com/kdozlo/CHILD-MADE/assets/74356213/5d6d2210-b35c-4bc2-aa46-66cd21e782a5)
 
 ### 회원 가입
 
 - 닉네임을 기입한다.
 
-![Untitled_5](/uploads/ef31d2c723093a89a2ed06169bc4df61/Untitled_5.png)
+![Untitled 5](https://github.com/kdozlo/CHILD-MADE/assets/74356213/725c3a2d-cc54-41c6-9d3e-b4d91dcdb25b)
 
 ### 메인 화면
+- 플레이 모드 : 혼자하기, 같이하기
 
-![Untitled_6](/uploads/e72dd4635beff7ee477601c4a10ad3f0/Untitled_6.png)
+![Untitled 6](https://github.com/kdozlo/CHILD-MADE/assets/74356213/7718081d-bf43-4042-9b16-8677f50f6170)
 
 ### 책 목록 리스트 화면
 
 - 검색 기능
 
-![Untitled_7](/uploads/1c9a6e195e45091304cf1f2faa6cdf19/Untitled_7.png)
+![Untitled 7](https://github.com/kdozlo/CHILD-MADE/assets/74356213/55e365b6-cac4-4ba5-be48-e3f597229971)
 
 ### 책 상세 정보 및 역할 선택 화면
 
 - 원하는 역할을 선택하여 플레이 할 수 있다.
 
-![Untitled_8](/uploads/813d241f32b4002388b5b4005a019c99/Untitled_8.png)
+![Untitled 8](https://github.com/kdozlo/CHILD-MADE/assets/74356213/69c6e2d1-ee0e-4ea0-b0df-de8e45843760)
 
-![Untitled_9](/uploads/7e6c0c1ab855a68a9261a0807239807b/Untitled_9.png)
+![Untitled 9](https://github.com/kdozlo/CHILD-MADE/assets/74356213/c52f7ad3-6791-41c1-8a6f-c000b4a63336)
 
 ### 플레이 화면
 
-![Untitled_10](/uploads/476724eabda5f42534a19f99fd9450fe/Untitled_10.png)
+![Untitled 10](https://github.com/kdozlo/CHILD-MADE/assets/74356213/10de3d83-3db3-49ec-b290-7281bfccc7ed)
 
 ### 나의 동화책 목록 화면
 
 - 검색 기능
 
-![Untitled_11](/uploads/40669e3cae609fd0c6479d8525c3285d/Untitled_11.png)
+![Untitled 11](https://github.com/kdozlo/CHILD-MADE/assets/74356213/0509a094-ac93-4374-915c-86143eeeffc9)
 
 ### 나의 동화책 상세 정보
 
@@ -181,15 +182,16 @@
 - 동화책 저장하기
 - 동화책 삭제하기
 
-![Untitled_12](/uploads/43cf1c79370e76057aea2e7b6aceed60/Untitled_12.png)
+![Untitled 12](https://github.com/kdozlo/CHILD-MADE/assets/74356213/bf7760a4-8e79-4456-b57b-01e07f0382d6)
 
 ### 동화책 보러가기 화면
 
-![Untitled_13](/uploads/52ce1991731d9d0243adbf523d4accc2/Untitled_13.png)
+![Untitled 13](https://github.com/kdozlo/CHILD-MADE/assets/74356213/d12fc32e-e701-4e0e-a594-64494dd39abb)
 
 ### 마이페이지
 
 - 이름, 닉네임, 프로필 사진 수정 기능
 - 회원 탈퇴 기능
 
-![Untitled_14](/uploads/ea3aa178a3d83f8e13e57aa9e8ddc010/Untitled_14.png)
+![Untitled 14](https://github.com/kdozlo/CHILD-MADE/assets/74356213/e105397c-b9cb-41e0-9370-69d3361ec151)
+
